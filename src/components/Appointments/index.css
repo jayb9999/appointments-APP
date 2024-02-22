@@ -1,0 +1,77 @@
+/* Write your CSS here */
+.bg {
+  padding: 50px;
+  background-color: rgb(184, 113, 184);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background-color: white;
+  border-radius: 25px;
+  font-size: 30px;
+}
+.card-up {
+  height: 50%;
+}
+.img-inputs-con {
+  display: flex;
+  flex-direction: row;
+  padding: 30px;
+}
+.inputs-con {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.add-btn {
+  height: 50px;
+  width: 120px;
+  padding: 5px;
+  font-size: 25px;
+  color: white;
+  background-color: rgb(117, 29, 134);
+  border: 0px;
+  border-radius: 8px;
+  margin-top: 40px;
+}
+.img-con {
+  width: 47%;
+}
+hr {
+  height: 2px;
+  background-color: black;
+}
+.ull {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+input {
+  height: 60px;
+  width: 95%;
+  padding: 5px;
+  font-size: 25px;
+  border: 1px solid black;
+}
+.appo-con {
+  height: 40%;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.str-bttn {
+  height: 40px;
+  width: 120px;
+  font-size: 30px;
+  margin-top: 20px;
+}
+.appointment-img {
+  height: 100%;
+  width: 100%;
+}

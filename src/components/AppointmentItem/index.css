@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.list-item {
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 10px;
+  width: 45%;
+  padding: 15px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+}
+.tt-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.btn {
+  border: 1px solid transparent;
+  background-color: transparent;
+  height: 30px;
+}
+img {
+  height: 50px;
+  width: 50px;
+}
